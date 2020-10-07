@@ -1,0 +1,14 @@
+*.pyc
+*~
+/.vscode
+--pycache--
+myvenv
+db.sqlite3
+/static
+.Ds_Store
+
+
+
+
+
+
